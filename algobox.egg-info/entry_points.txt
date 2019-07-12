@@ -1,3 +1,0 @@
-[console_scripts]
-vndee = pyalgo.__main__:main
-
