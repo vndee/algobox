@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: algobox
-Version: 1.0.0
+Version: 1.0.3
 Summary: Modern algorithms implementation with native python
-Home-page: https://github.com/vndee/pyalgo
+Home-page: https://github.com/vndee/algobox
 Author: Duy Huynh
 Author-email: hvd.huynhduy@gmail.com
 License: MIT
-Description: # pyalgo
+Description: # algobox
         Algorithms package for python
         
 Platform: UNKNOWN

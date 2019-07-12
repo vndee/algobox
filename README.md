@@ -1,2 +1,2 @@
-# pyalgo
+# algobox
 Algorithms package for python
