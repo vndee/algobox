@@ -6,12 +6,12 @@ HERE = pathlib.Path(__file__).parent
 README = (HERE / "README.md").read_text()
 
 setup(
-    name = "Python algorithms library",
+    name = "algobox",
     version = "1.0.0",
     description = "Modern algorithms implementation with native python",
     long_description = README,
     long_description_content_type = "text/markdown",
-    url = "https://github.com/vndee/pyalgo",
+    url = "https://github.com/vndee/algobox",
     author = "Duy Huynh",
     author_email = "hvd.huynhduy@gmail.com",
     license = "MIT",
@@ -19,7 +19,7 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
     ],
-    package = ["pyalgo"],
+    package = ["algobox"],
     include_package_data = True,
     install_requires = [],
     entry_points = {

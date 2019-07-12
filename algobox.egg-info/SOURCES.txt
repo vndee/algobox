@@ -1,0 +1,7 @@
+README.md
+setup.py
+algobox.egg-info/PKG-INFO
+algobox.egg-info/SOURCES.txt
+algobox.egg-info/dependency_links.txt
+algobox.egg-info/entry_points.txt
+algobox.egg-info/top_level.txt

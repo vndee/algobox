@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: algobox
+Version: 1.0.0
+Summary: Modern algorithms implementation with native python
+Home-page: https://github.com/vndee/pyalgo
+Author: Duy Huynh
+Author-email: hvd.huynhduy@gmail.com
+License: MIT
+Description: # pyalgo
+        Algorithms package for python
+        
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
